@@ -8,4 +8,4 @@
 ![Game Screenshot](/images/screenshot.png)
 ---
 ## Link to use the clock
-[]()
+[https://daisyle0203.github.io/digital_clock/](https://daisyle0203.github.io/digital_clock/)
